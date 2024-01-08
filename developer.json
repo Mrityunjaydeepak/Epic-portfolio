@@ -1,0 +1,134 @@
+{
+    "name": "Mrityunjay Deepak",
+    "logo_name": "mrityunjay-deepak",
+    "role": "Web developer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>Recent graduate passionate about web development. Actively tackle freelance projects, applying HTML, CSS, and JavaScript skills, while exploring React.js. Continuously learn and stay current with industry trends. Engaged in an intensive web development bootcamp, acquiring a robust foundation. Made several projects showcasing proficiency in the MERN stack. Eager to contribute enthusiasm and rapidly growing skills to innovative projects and collaborative teams."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>As a Web developer,showcasing expertise in server-side scripting with Node.js and Express.js, dynamic UI creation using React.js, and efficient database management with MongoDB. Proficient in JavaScript for both client and server applications, they possess a strong grasp of front-end technologies like HTML, CSS, and JavaScript libraries. Utilizing tools and frameworks, MERN stack developers ensure the creation of scalable and responsive applications in a dynamic web environment."
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>As a software developer, I excel in effective communication, collaborating seamlessly with diverse teams and adapting readily to changes. I bring creative problem-solving to enhance user experiences and prioritize time management to meet project deadlines efficiently. Meticulous attention to detail ensures code quality and thorough testing. In leadership roles, I guide and mentor team members, fostering a growth-oriented atmosphere. I maintain a continuous learning mindset, staying updated on industry trends. Building positive relationships, I demonstrate empathy and professionalism. Robust documentation practices create clear materials for technical and non-technical audiences"
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br> About me <br> Eager MERN stack enthusiast and recent software engineering graduate. Passionate about crafting efficient and dynamic web applications. Proficient in MongoDB, Express.js, React.js, and Node.js. Excited to embark on a journey where creativity and problem-solving converge, seeking opportunities to contribute and learn in a collaborative development environment."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br>I am constantly learning Web Development - Machine Learning - Android development"
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br>Continuously immersed in the dynamic realm of technology, I am dedicated to perpetual learning. Embracing a proactive approach, I stay abreast of emerging trends and advancements, ensuring my skills remain sharp and adaptable. This commitment to ongoing education fuels my passion for innovation and enables me to contribute effectively to ever-evolving technological landscapes.                        ",
+                        "files": {
+                            "DPS Ranipur": "I have been to Delhi Public School",
+                            "Lovely Professional University": "Lovely Professional university."
+                        }
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>I am an avid sports enthusiast"
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>I am a passionate gamer with keen interest in FPS Gaming."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "Mrityunjaydeepak22@gmail.com",
+                "phone": "(+91)-6395067539"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "Mrityunjaydeepak"
+            },
+            "facebook": {
+                "title": "Facebook profile",
+                "url": "https://facebook.com/",
+                "user": "username"
+            },
+            "twitter": {
+                "title": "Twitter account",
+                "url": "https://twitter.com/",
+                "user": "IChiefAlpha"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "twitch": {
+                    "title": "Twitch profile",
+                    "url": "https://twitch.com/",
+                    "user": "IChiefAlpha"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "4185752102a4e3799d390ed86a623be2",
+        "2": "11baa74f13385bb3909fc01da4f6eb0b"
+    },
+    "projects": {
+        "1": {
+            "title": "_Sumz",
+            "description": "Save Time, Read Smart: AI Article Summarizer Unleashes Effortless Insights.",
+            "img": "/images/projects/ui-animations2.png",
+            "tech": ["React","CSS","HTML"],
+            "url": "https://article-ai.netlify.app//"
+        },
+        "2": {
+            "title": "_expense-tracker",
+            "description": "Master Your Finances: Unleashing the Power of a Full-stack Expense Tracker.",
+            "img": "/images/projects/web1.png",
+            "tech": ["React","CSS","HTML"],
+            "url": "https://full-stack-expense-tracker-kappa.vercel.app/"
+        },
+        "3": {
+            "title": "_eCommerce-website",
+            "description": "Seamless Shopping: Elevate Your Experience with a Full-stack Ecommerce Store.",
+            "img": "/images/projects/web3.png",
+            "tech": ["Angular"],
+            "url": "https://dukaan-the-store.vercel.app/home"
+        },
+        "4": {
+            "title": "_GPT-landing-page",
+            "description": "Reacting to Brilliance: Unveiling the Power of GPT in Our Intuitive Landing Page.",
+            "img": "/images/projects/web4.png",
+            "tech": ["React","CSS","HTML"],
+            "url": "https://github.com/"
+        }
+        
+    }
+}
